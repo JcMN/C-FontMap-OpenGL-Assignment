@@ -1,2 +1,2 @@
 # C-FontMap-OpenGL-Assignment
-Assignemnt done in C++ using OpenGL to generate text by taking textures from a Font Map
+Assignment done in C++ using OpenGL to generate text by taking textures from a Font Map. Done by Juan Carlos Narvaez, shows a text rendering with support for the multiple languages, allignment on the certical and horizontal axises, some support for dynamic resizing, printf like functions for the text, dynamic string substitution, colouring of the text and taking strings from a CSV file. Included are the main classes but thirdparty software used like Wolf engine and others are not included in the repo nor are made by me but provided in class by the Professor. 
