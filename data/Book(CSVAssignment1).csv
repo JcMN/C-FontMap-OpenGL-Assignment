@@ -1,0 +1,5 @@
+ID,ENGLISH,SPANISH
+str_greeting,Hello {name} {age},Hola {name} {age}
+str_course_name,Graphics 436: Assignment 1,Gr�ficos 436:  Asignaci�n 1
+str_girl,Girl,Chica
+str_boy,Boy,Chico
